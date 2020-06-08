@@ -1,0 +1,25 @@
+{
+  "name": "svg-parser",
+  "version": "0.0.1",
+  "description": "Useful functions to parse complicated svg files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjhurley/svg-parser.git"
+  },
+  "author": "Will Hurley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjhurley/svg-parser/issues"
+  },
+  "homepage": "https://github.com/wjhurley/svg-parser#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
